@@ -1,0 +1,14 @@
+.DS_Store
+cred.json
+GICS/*
+.idea/*
+__pycache__/*
+*/__pycache__/*
+*/*/__pycache__/*
+*.sql
+*.txt
+*.pptx
+*.pdf
+*.csv
+.vscode
+.venv
