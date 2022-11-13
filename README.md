@@ -1,7 +1,8 @@
 # Docker-Stocks
 Use docker-compose to set up APIs for CRUDing stock indices with MySQL.
 
-Fetch indices of W for current 3 days:
+1. docker-compose up --build
+2. Fetch indices of W for current 3 days:
 ```
 $ curl 127.0.0.1:8000/indices/w/3
 [
